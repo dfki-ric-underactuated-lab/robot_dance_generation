@@ -19,9 +19,9 @@ Rohit Kumar, Shubham Vyas, Octavio Arriaga and Frank Kirchner.
 <div align="center">
   <img src="doc/static/ulab.gif" style="width:150px">
   <img src="doc/static/logo.svg" style="width:150px">
-  <img src="doc/static/vh.jpg" style="width:120px">
-  <img src="doc/static/humaneai.png" style="width:180px">
+  <img src="doc/static/vh.jpeg" style="width:120px">
+  <img src="doc/static/humaneai.png" style="width:150px">
   <img src="doc/static/KiMMI-Logo.png" style="width:110px">
-  <img src="doc/static/MRock-Logo.png" style="width:200px">  
+  <img src="doc/static/MRock-Logo.png" style="width:150px">  
 </div>
 
