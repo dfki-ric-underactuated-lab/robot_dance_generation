@@ -5,15 +5,18 @@ This repo contains the model data of RH5 Manus robot used as a case study in the
 
 ### Citation
 
-Melya Boukheddimi*, Daniel Harnack*, Shivesh Kumar,;
-Rohit Kumar, Shubham Vyas, Octavio Arriaga and Frank Kirchner.
-(IEEE-IROS 2022). Robot Dance Generation with Music Based Trajectory Optimization.
-
-    @misc{Dance22,
-          author = {Melya Boukheddimi*, Daniel Harnack*, Shivesh Kumar,
-          Rohit Kumar, Shubham Vyas, Octavio Arriaga and Frank Kirchner}, year =
-          {2022}, month = {07}, journal = {IEEE-IROS 2022}, title = {Robot Dance
-          Generation with Music Based Trajectory Optimization}}
+M. Boukheddimi et al., "Robot Dance Generation with Music Based Trajectory Optimization," 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, 2022, pp. 3069-3076, doi: 10.1109/IROS47612.2022.9981462.
+```
+  @INPROCEEDINGS{9981462,
+  author={Boukheddimi, Melya and Harnack, Daniel and Kumar, Shivesh and Kumar, Rohit and Vyas, Shubham and Arriaga, Octavio and Kirchner, Frank},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Robot Dance Generation with Music Based Trajectory Optimization}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={3069-3076},
+  doi={10.1109/IROS47612.2022.9981462}}
+```
 
 </div>
 <div align="center">
